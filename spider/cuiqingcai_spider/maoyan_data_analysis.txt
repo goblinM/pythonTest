@@ -1,0 +1,35 @@
+<dd>
+    <i class="board-index board-index-11">l1</i>
+    <a href="/films/3667" title="辛德勒的名单" class="image-link" data-act="boarditem-click" data-val="{movieId:3667}">
+      <img src="//s0.meituan.net/bs/?f=myfe/mywww:/image/loading_2.e3d934bf.png" alt="" class="poster-default" />
+      <img data-src="https://p0.meituan.net/movie/b0d986a8bf89278afbb19f6abaef70f31206570.jpg@160w_220h_1e_1c" alt="辛德勒的名单" class="board-img" />
+    </a>
+    <div class="board-item-main">
+      <div class="board-item-content">
+            <div class="movie-item-info">
+                <p class="name"><a href="/films/3667" title="辛德勒的名单" data-act="boarditem-click" data-val="{movieId:3667}">辛德勒的名单</a></p>
+                <p class="star">
+                    主演：连姆·尼森,拉尔夫·费因斯,本·金斯利
+                </p>
+                <p class="releasetime">上映时间：1993-12-15(美国)</p>
+            </div>
+            <div class="movie-item-number score-num">
+                <p class="score"><i class="integer">9.</i><i class="fraction">2</i></p>
+            </div>
+        </div>
+    </div>
+</dd>
+
+可以看到，一部电影信息对应的源代码是一个 dd 节点
+1.提取排名信息：
+    <dd>.*?board-index.*?>(.*?)</i>
+2.提取电影图片：第二个img节点放的才是图片的连接，需要提取data-src:
+    <dd>.*?board-index.*?>(.*?)</i>.*?data-src="(.*?)"
+3.提取电影名称：
+    <dd>.*?board-index.*?>(.*?)</i>.*?data-src="(.*?)".*?name.*?a.*?>(.*?)</a>
+4.提取主演：
+    <dd>.*?board-index.*?>(.*?)</i>.*?data-src="(.*?)".*?name.*?a.*?>(.*?)</a>.*?star.*?>(.*?)</p>
+5.提取上映时间：
+    <dd>.*?board-index.*?>(.*?)</i>.*?data-src="(.*?)".*?name.*?a.*?>(.*?)</a>.*?star.*?>(.*?)</p>.*?releasetime.*?>(.*?)</p>
+6.提取评分：
+    <dd>.*?board-index.*?>(.*?)</i>.*?data-src="(.*?)".*?name.*?a.*?>(.*?)</a>.*?star.*?>(.*?)</p>.*?releasetime.*?>(.*?)</p>.*?integer.*?>(.*?)</i>.*?fraction.*?>(.*?)</i>.*?</dd>
