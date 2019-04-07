@@ -2,6 +2,7 @@
 selenium 自动化测试工具，支持多种浏览器
 爬虫中主要用来解决JavaScript渲染的问题
 更多的可以查看api文档
+https://selenium-python.readthedocs.io/api
 '''
 import time
 
