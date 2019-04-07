@@ -3,6 +3,12 @@ selenium 自动化测试工具，支持多种浏览器
 爬虫中主要用来解决JavaScript渲染的问题
 更多的可以查看api文档
 https://selenium-python.readthedocs.io/api
+
+启用 Headless（无头浏览器） 模式的方法
+如下：
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument('--headless')
+browser = webdriver.Chrome(chrome options=chrome _options)
 '''
 import time
 

@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9addb4ec-6138-46f4-9d21-1037b5921ba2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/cuiqingcai_spider/XPath_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/cuiqingcai_spider/base/XPath_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/cuiqingcai_spider/beautifulsoup_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/cuiqingcai_spider/base/beautifulsoup_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/cuiqingcai_spider/maoyan_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/maoyan_movies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/cuiqingcai_spider/pyquery_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/cuiqingcai_spider/base/pyquery_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/cuiqingcai_spider/re_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/cuiqingcai_spider/base/re_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/cuiqingcai_spider/requests_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/cuiqingcai_spider/base/requests_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/cuiqingcai_spider/selenium_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/cuiqingcai_spider/base/selenium_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/cuiqingcai_spider/urllib_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/cuiqingcai_spider/base/urllib_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/cuiqingcai_spider/base/selenium_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/cuiqingcai_spider/base/selenium_base.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,6 +36,7 @@
     <SUITE FILE_PATH="coverage/pythonTest$md5.coverage" NAME="md5 Coverage Results" MODIFIED="1553861053169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aigorithm" />
     <SUITE FILE_PATH="coverage/pythonTest$reverse_stack.coverage" NAME="reverse_stack Coverage Results" MODIFIED="1553602142019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonPractices/stack_queue" />
     <SUITE FILE_PATH="coverage/pythonTest$test_driver.coverage" NAME="test_driver Coverage Results" MODIFIED="1554473708572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/cuiqingcai_spider" />
+    <SUITE FILE_PATH="coverage/pythonTest$jinritoutiao_image.coverage" NAME="jinritoutiao_image Coverage Results" MODIFIED="1554640638293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices" />
     <SUITE FILE_PATH="coverage/pythonTest$deque_stack.coverage" NAME="deque_stack Coverage Results" MODIFIED="1552819287437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aigorithm" />
     <SUITE FILE_PATH="coverage/pythonTest$board.coverage" NAME="board Coverage Results" MODIFIED="1531040424850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/retro_snaker" />
     <SUITE FILE_PATH="coverage/pythonTest$mergesort.coverage" NAME="mergesort Coverage Results" MODIFIED="1541342410988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aigorithm" />
@@ -61,6 +54,7 @@
     <SUITE FILE_PATH="coverage/pythonTest$common_link.coverage" NAME="common_link Coverage Results" MODIFIED="1553760241661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonPractices/link" />
     <SUITE FILE_PATH="coverage/pythonTest$imageOne.coverage" NAME="imageOne Coverage Results" MODIFIED="1539447214150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonImage" />
     <SUITE FILE_PATH="coverage/pythonTest$with_open.coverage" NAME="with_open Coverage Results" MODIFIED="1551667148584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aigorithm" />
+    <SUITE FILE_PATH="coverage/pythonTest$taobao_food.coverage" NAME="taobao_food Coverage Results" MODIFIED="1554649086717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices" />
     <SUITE FILE_PATH="coverage/pythonTest$stack_queue.coverage" NAME="stack_queue Coverage Results" MODIFIED="1552813027793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aigorithm" />
     <SUITE FILE_PATH="coverage/pythonTest$rangeTest.coverage" NAME="rangeTest Coverage Results" MODIFIED="1553867582195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aigorithm" />
     <SUITE FILE_PATH="coverage/pythonTest$getData.coverage" NAME="getData Coverage Results" MODIFIED="1531193010785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
@@ -80,14 +74,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="maoyan_movies.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/maoyan_movies.py">
+      <file leaf-file-name="jinritoutiao_image.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/jinritoutiao_image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="48" column="62" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
+            <state relative-caret-position="325">
+              <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
               <folding>
-                <element signature="e#64#75#0" expanded="true" />
+                <element signature="e#341#350#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="taobao_food.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/taobao_food.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="36" column="50" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="50" />
+              <folding>
+                <element signature="e#361#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selenium_base.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/base/selenium_base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -114,9 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data-center/dataType.py" />
-        <option value="$PROJECT_DIR$/data-center/data/testData.py" />
-        <option value="$PROJECT_DIR$/Aigorithm/gnomesort.py" />
         <option value="$PROJECT_DIR$/Aigorithm/mergesort.py" />
         <option value="$PROJECT_DIR$/Aigorithm/containsDuplicate.py" />
         <option value="$PROJECT_DIR$/Aigorithm/tree.py" />
@@ -165,6 +177,9 @@
         <option value="$PROJECT_DIR$/spider/cuiqingcai_spider/pyquery_base.py" />
         <option value="$PROJECT_DIR$/spider/cuiqingcai_spider/selenium_base.py" />
         <option value="$PROJECT_DIR$/spider/cuiqingcai_spider/practices.py" />
+        <option value="$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/jinritoutiao_image.py" />
+        <option value="$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/taobao_food.py" />
+        <option value="$PROJECT_DIR$/spider/cuiqingcai_spider/base/selenium_base.py" />
       </list>
     </option>
   </component>
@@ -177,11 +192,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="993" />
-    <option name="y" value="13" />
-    <option name="width" value="975" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="551" />
+    <option name="width" value="1519" />
+    <option name="height" value="1298" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -215,6 +229,13 @@
               <item name="pythonTest" type="462c0819:PsiDirectoryNode" />
               <item name="spider" type="462c0819:PsiDirectoryNode" />
               <item name="cuiqingcai_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTest" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="cuiqingcai_spider" type="462c0819:PsiDirectoryNode" />
               <item name="distribute_practices" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -223,6 +244,13 @@
               <item name="spider" type="462c0819:PsiDirectoryNode" />
               <item name="cuiqingcai_spider" type="462c0819:PsiDirectoryNode" />
               <item name="frame_practices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTest" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="cuiqingcai_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="save_data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pythonTest" type="b2602c69:ProjectViewProjectNode" />
@@ -286,6 +314,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\君莫笑\PycharmProjects\pythonTest\spider\cuiqingcai_spider\save_data" />
       <recent name="C:\Users\君莫笑\PycharmProjects\pythonTest\spider\cuiqingcai_spider\spider_practices" />
       <recent name="C:\Users\君莫笑\PycharmProjects\pythonTest\spider\cuiqingcai_spider\base" />
       <recent name="C:\Users\君莫笑\PycharmProjects\pythonTest\data-center\data" />
@@ -310,26 +339,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.selenium_base">
-    <configuration name="XPath_base" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider/cuiqingcai_spider" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\君莫笑\PycharmProjects\pythonTest\spider\cuiqingcai_spider\base\XPath_base.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.taobao_food">
     <configuration name="beautifulsoup_base" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -349,7 +359,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="maoyan_movies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="jinritoutiao_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -357,12 +367,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider/cuiqingcai_spider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\君莫笑\PycharmProjects\pythonTest\spider\cuiqingcai_spider\spider_practices\maoyan_movies.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/jinritoutiao_image.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -406,20 +416,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="taobao_food" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/taobao_food.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.maoyan_movies" />
-      <item itemvalue="Python.XPath_base" />
       <item itemvalue="Python.beautifulsoup_base" />
       <item itemvalue="Python.pyquery_base" />
       <item itemvalue="Python.selenium_base" />
+      <item itemvalue="Python.jinritoutiao_image" />
+      <item itemvalue="Python.taobao_food" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.taobao_food" />
+        <item itemvalue="Python.jinritoutiao_image" />
         <item itemvalue="Python.selenium_base" />
         <item itemvalue="Python.pyquery_base" />
         <item itemvalue="Python.beautifulsoup_base" />
-        <item itemvalue="Python.XPath_base" />
-        <item itemvalue="Python.maoyan_movies" />
       </list>
     </recent_temporary>
   </component>
@@ -446,23 +475,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="795" y="11" width="780" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067025" side_tool="true" weight="0.32909605" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.43714285" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.56795424" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.83168316" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.46892655" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38227147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2922252" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
       <window_info anchor="right" id="SciView" order="3" weight="0.6487936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4477401" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.446959" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -479,94 +509,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Aigorithm/avg_s.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aigorithm/deque_stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1430">
-          <caret line="65" column="35" selection-start-line="43" selection-end-line="65" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aigorithm/stack_queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aigorithm/Link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aigorithm/niuk_parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonStudy/multiprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1166">
-          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonStudy/property_mmx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonStudy/threadlocal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/loc2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/loc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonPractices/stack_queue/twostack_queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonPractices/stack_queue/minStack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonPractices/stack_queue/sort_stack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -751,31 +697,10 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/xml/etree/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/maoyan_data_analysis.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/maoyandata.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="142" selection-start-column="142" selection-end-column="142" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/base/beautifulsoup_base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="102" column="8" lean-forward="true" selection-start-line="102" selection-start-column="8" selection-end-line="102" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/base/pyquery_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="27" column="30" lean-forward="true" selection-end-line="124" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -790,13 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="596">
           <caret line="76" column="40" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/base/selenium_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="56" column="30" lean-forward="true" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -820,13 +738,99 @@
     <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/practices.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/save_data/maoyandata.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="142" selection-start-column="142" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/save_data/maoyan_data_analysis.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/maoyan_movies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="48" column="62" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
+        <state relative-caret-position="1475">
+          <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
           <folding>
             <element signature="e#64#75#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/img/三里屯街拍，清明小长假，来逛太古里的美女多不多？/f1d718a037c6212c5af4751bbf950a4f.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/img/2ad4784cebbaa09ff3eea59c289a19e2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/img/8a54e21633cfdc1a072ed9af6dce02dc.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/img/229fb034bb4669dab8952bd48f914010.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/img/d3ade879ad4e290609c01d2a9237bb8a.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/img/f79d11bea6a358be08bd6bebe9a66304.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/img/小姐姐凹凸有致的身材，完美撑起了这条露腰裙/2ad4784cebbaa09ff3eea59c289a19e2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/img/三里屯街拍，清明小长假，来逛太古里的美女多不多？/4d70466bd9e7404b38ed91a67bacf4c4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/base/pyquery_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-668">
+          <caret line="27" column="30" lean-forward="true" selection-end-line="124" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/taobao_food.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="36" column="50" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="50" />
+          <folding>
+            <element signature="e#361#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/spider_practices/jinritoutiao_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          <folding>
+            <element signature="e#341#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cuiqingcai_spider/base/selenium_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
