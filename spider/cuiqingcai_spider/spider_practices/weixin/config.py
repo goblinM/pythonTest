@@ -1,0 +1,28 @@
+"""
+配置文件
+"""
+REDIS_HOST = '127.0.0.1'
+
+REDIS_PORT = 6379
+
+REDIS_PASSWORD = None
+
+REDIS_KEY = 'weixin'
+
+PROXY_POOL_URL = 'http://127.0.0.1:8000/spider/proxy'
+
+MYSQL_HOST = '127.0.0.1'
+
+MYSQL_PORT = 3306
+
+MYSQL_USER = 'root'
+
+MYSQL_PASSWORD = '123456'
+
+MYSQL_DATABASE = 'weixin'
+
+TIMEOUT = 10
+
+MAX_FAILED_TIME = 20
+
+VALID_STATUSES = [200]
