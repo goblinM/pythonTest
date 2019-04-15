@@ -69,7 +69,7 @@ class solution:
     """
 
     def shell_sort(self,s):
-        step = len(s)//2
+        step = len(s)//2 #这里的2是基数，但是基数是可变的
         while step > 0:
             for i in range(step,len(s)): #这里要在s[step:len(s)]中进行插入排序
                 while i >= step:
@@ -145,13 +145,27 @@ class solution:
             self.buidMaxHeap(s,0,bottom-1) # 堆长度减一，（代表当前节点已经访问过），再从上往下调整为大顶堆
         return s
 
+    def mergesort(self,seq):
+        mid = len(seq) // 2  # 取整
+        left, right = seq[:mid], seq[:mid]
+        if len(left) > 1: left = self.mergesort(left)  # 这里是指分别给左右排序
+        if len(right) > 1: right = self.mergesort(right)
+        res = []
+        while left and right:
+            if left[-1] >= right[-1]:
+                res.append(left.pop())
+            else:
+                res.append(right.pop())
+        res.reverse()
+        return (left or right) + res
+
 
 
 
 
 
 if __name__ == "__main__":
-    test_list = [3,1,4,15,5,9,2,6,8]
+    test_list = [49,38,65,97,76,13,27,50]
     obj = solution()
     # bubble_result = obj.bubble_sort(test_list)
     # print(bubble_result)
@@ -161,7 +175,7 @@ if __name__ == "__main__":
     # print(shell_result)
     # quick_result = obj.quick_sort(test_list)
     # print(quick_result)
-    heap_result = obj.heap_sort(test_list)
+    heap_result = obj.shell_sort(test_list)
     print(heap_result)
 
 
